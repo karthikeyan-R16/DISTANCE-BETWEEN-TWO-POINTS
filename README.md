@@ -31,5 +31,6 @@ print("{:.2f}".format(d))
 ![python 3](https://github.com/karthikeyan-R16/DISTANCE-BETWEEN-TWO-POINTS/assets/119421232/9ab20e5d-5759-4a63-b3b3-43f742d061ad)
 
 
-### RESULT:
+### RESULT :
+
 Thus the program to find the distance between two points is written and verified using python programming
