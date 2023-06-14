@@ -17,14 +17,16 @@ Print the distance with two decimal places
 ### Step 5: 
 End the program
 ### PROGRAM:
-```py
+```
 #Developed by: Karthikeyan r
 #RegisterNumber:212222240045
+
 import math
-l1=[4,2]
-l2=[10,6]
-d=math.sqrt((l2[0]-l1[0])**2+(l2[1]-l1[1])**2)
-print("{:.2f}".format(d))
+a=[4,2]
+b=[10,6]
+dist=math.sqrt(((b[0]-a[0])**2)+((b[1]-a[1])**2))
+print("%.2f"%dist)
+
 ```
 
 ### OUTPUT:
