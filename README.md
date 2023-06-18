@@ -14,7 +14,7 @@ Take two lists containing the points as the elemen
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 Print the distance with two decimal places
-### Step 5 :
+### Step 5  :
 End the program
 ### PROGRAM:
 ```
