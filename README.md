@@ -18,13 +18,13 @@ Print the distance with two decimal places
 End the program
 ### PROGRAM:
 ```
-#Developed by: Karthikeyan r
-#RegisterNumber:212222240045
-
+#Program to find the distance between two points.
+#Developed by: Karthikeyan R
+#RegisterNumber: 212222240045
 import math
-a=[4,2]
-b=[10,6]
-dist=math.sqrt(((b[0]-a[0])**2)+((b[1]-a[1])**2))
+d1=[4,2]
+d2=[10,6]
+dist=math.sqrt(((d2[0]-d1[0])**2)+((d2[1]-d1[1])**2))
 print("%.2f"%dist)
 
 ```
