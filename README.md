@@ -4,18 +4,13 @@
 To write a python program to find the distance between two points.
 
 ## ALGORITHM:
-## step1:
-Import the math module to use the built-in functions for calculation
+## step1: Import numpy module to use built-in functions
+## Step 2: Get lists from the linear equations and assign it to np.array
+## Step 3: Substitute the values in the distance formula
+## Step 4: Print the result.
+## Step 5: End the program.
 
-## Step 2:
-Take two lists containing the points as the elemen
 
-## Step 3:
-Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: 
-Print the distance with two decimal places
-### Step 5  :
-End the program
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
